@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class GetPointServlet
  */
-@WebServlet("/getPoint")
+@WebServlet("/getPointServlet")
 public class GetPointServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        

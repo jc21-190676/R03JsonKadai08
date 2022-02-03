@@ -21,7 +21,7 @@ import bean.Ticket;
 /**
  * Servlet implementation class getPoint
  */
-@WebServlet("/JsonKadai08/getPoint")
+@WebServlet("/getPoint")
 public class getPoint extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
